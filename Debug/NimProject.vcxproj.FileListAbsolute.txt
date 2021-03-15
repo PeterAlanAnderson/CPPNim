@@ -1,0 +1,2 @@
+C:\Users\peter\source\repos\NimProject\Debug\NimProject.exe
+C:\Users\peter\source\repos\NimProject\Debug\NimProject.pdb
